@@ -7,15 +7,15 @@ Simulation of a roomba controlled through a Recurrent Neural Network optimized t
 
 ### Genetic Algorithm & Neural Architecture
 
-![Neural Architecture](results/architecture.png)
+![Neural Architecture](results/architecture.PNG)
 
 ### Fitness Function
 
-![Fitness Function](results/fitness_function.png)
+![Fitness Function](results/fitness_function.PNG)
 
 ### Results
 
-![Results](results/results.png)
+![Results](results/results.PNG)
 
 
 To run the simulation, run the following command in the terminal:
